@@ -20,7 +20,7 @@ This project enables seamless data migration from MongoDB Atlas to PostgreSQL an
 ## 📁 Project Structure
 
 project/ <br>
-│
+│<br>
 ├── export.js        # Exports data from MongoDB to JSON <br>
 ├── insert.js        # Inserts data into PostgreSQL<br>
 ├── schema.js        # Infers PostgreSQL schema from JSON<br>
