@@ -1,0 +1,17 @@
+{
+  "name": "harrier",
+  "version": "1.0.0",
+  "main": "exportData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "mongodb": "^6.15.0",
+    "pg": "^8.14.1"
+  }
+}
