@@ -21,11 +21,11 @@ This project enables seamless data migration from MongoDB Atlas to PostgreSQL an
 
 project/
 │
-├── export.js        # Exports data from MongoDB to JSON
-├── insert.js        # Inserts data into PostgreSQL
-├── schema.js        # Infers PostgreSQL schema from JSON
-├── lambda.js        # AWS Lambda to store records into S3
-├── export.json      # JSON file generated from MongoDB
+├── export.js        # Exports data from MongoDB to JSON <br>
+├── insert.js        # Inserts data into PostgreSQL<br>
+├── schema.js        # Infers PostgreSQL schema from JSON<br>
+├── lambda.js        # AWS Lambda to store records into S3<br>
+├── export.json      # JSON file generated from MongoDB<br>
 └── README.md        # Documentation
 
 ## 1️⃣ Export Data from MongoDB
