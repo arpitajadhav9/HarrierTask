@@ -2,8 +2,8 @@
 
 Run the following commands in your terminal to set up the environment:
 
-npm init -y                    # Initialize a new Node.js project
-npm install mongodb pg         # Install MongoDB and PostgreSQL client libraries
+npm init -y                    # Initialize a new Node.js project<br>
+npm install mongodb pg         # Install MongoDB and PostgreSQL client libraries<br>
 npm install fs                 # (Optional) For file system operations
 
 ## Documentation:
